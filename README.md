@@ -1,11 +1,10 @@
-## OBAVEŠTENJA
-
 Uputstvo za upotrebu sistema za kontrolu verzija i otpremanje domaćih zadataka dostupno je na sledećem linku:
 
 ```
 https://github.com/KPU-OOPJ/UPUTSTVO/blob/master/Uputstvo%20za%20upotrebu%20sistema%20za%20kontrolu%20verzija.pdf
 ```
-#
+
+##
 
 ### ROKOVI
 ```
