@@ -12,7 +12,6 @@ Video uputstvo za korišćenje sistema za kontrolu verzija i otpremanje domaćih
 
 ```
 https://youtu.be/z2dew2E6tB0
-
 ```
 
 ##
