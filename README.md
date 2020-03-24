@@ -14,6 +14,8 @@ https://github.com/KPU-OOPJ/UPUTSTVO/blob/master/Uputstvo%20za%20upotrebu%20sist
 
 Svaki domaći zadatak nosi 2 boda, što znači da na osnovu ove predispitne obaveze možete ostvariti ukupno 12 poena.
 
+Prilikom bodovanja u obzir će biti uzeti vaš trud i samostalnost prilikom izrade zadatka, ispunjenost zahtevanih uslova, kao i razumevanje načina na koji se zahtevana funkcionalnost ostvaruje (komentarisanje ključnih atributa i/ili metoda koji obezbeđuju zahtevanu funkcionalnost).
+
 **NAPOMENA:** Ko ne uradi 2 domaća zadatka zaredom, smatraće se da je odustao od ove predispitne obaveze i nakon toga mu se neće dodeljivati novi zadaci.
 
 ##
