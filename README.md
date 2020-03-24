@@ -1,5 +1,7 @@
 ### UPUTSTVO
 
+Podrazumevano okruženje za izradu domaćih zadataka je **NetBeans IDE**.
+
 Uputstvo za upotrebu sistema za kontrolu verzija i otpremanje domaćih zadataka na GitHub dostupno je na sledećem linku:
 
 ```
