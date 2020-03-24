@@ -2,10 +2,17 @@
 
 Podrazumevano okruženje za izradu domaćih zadataka je **NetBeans IDE**.
 
-Uputstvo za upotrebu sistema za kontrolu verzija i otpremanje domaćih zadataka na GitHub dostupno je na sledećem linku:
+Uputstvo za korišćenje sistema za kontrolu verzija i otpremanje domaćih zadataka na GitHub dostupno je na sledećem linku:
 
 ```
-https://github.com/KPU-OOPJ/UPUTSTVO/blob/master/Uputstvo%20za%20upotrebu%20sistema%20za%20kontrolu%20verzija.pdf
+https://github.com/KPU-OOPJ/OBAVESTENJA/blob/master/Uputstvo%20za%20kori%C5%A1%C4%87enje%20sistema%20za%20kontrolu%20verzija.pdf
+```
+
+Video uputstvo za korišćenje sistema za kontrolu verzija i otpremanje domaćih zadataka na GitHub dostupno je na sledećem linku:
+
+```
+https://youtu.be/z2dew2E6tB0
+
 ```
 
 ##
