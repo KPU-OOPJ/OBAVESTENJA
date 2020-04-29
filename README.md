@@ -34,7 +34,7 @@ Navedeni rokovi se striktno moraju poštovati. Domaći zadaci otpremljeni van na
 Domaći zadatak 1 >> 23.03. - 27.03.
 Domaći zadatak 2 >> 30.03. - 03.04.
 Domaći zadatak 3 >> 08.04. - 17.04.
-Domaći zadatak 4 >> 20.04. - 24.04.
-Domaći zadatak 5 >> 27.04. - 01.05.
-Domaći zadatak 6 >> 04.05. - 08.05.
+Domaći zadatak 4 >> 20.04. - 27.04.
+Domaći zadatak 5 >> 29.04. - 04.05.
+Domaći zadatak 6 >> 05.05. - 11.05.
 ```
